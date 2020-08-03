@@ -1,0 +1,41 @@
+.bitBox {
+    display: flex;
+}
+
+.bitLabel {
+    background-color: #282c34;
+    color: #ccc;
+    height: 2em;
+    width: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    border: 1px solid black;
+    font-weight: normal;
+    margin-top: 1em;
+}
+
+.bit {
+    height: 2em;
+    width: 2em;
+    border: 1px solid black;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.on {
+    background-color: white;
+}
+
+.off {
+    background-color: red;
+    color: white;
+}
+
+.operator {
+    margin: 1em;
+}
