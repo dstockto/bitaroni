@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
-import logo from 'logo.svg';
-import 'App.css';
-import BitaroniTitle from 'components/BitaroniTitle';
+import logo from './logo.svg';
+import './App.css';
+import BitaroniTitle from './components/BitaroniTitle';
 import Bitz from "./components/Bitz";
 import Operator from "./components/Operator";
 

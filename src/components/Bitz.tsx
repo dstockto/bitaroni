@@ -1,6 +1,6 @@
 import React from "react";
-import Bit from "components/Bit";
-import 'style/bit.css';
+import Bit from "./Bit";
+import '../style/bit.css';
 import BitLabel from "./BitLabel";
 
 interface BitzProps {

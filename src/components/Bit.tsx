@@ -1,5 +1,5 @@
 import React from 'react';
-import 'style/bit.css';
+import '../style/bit.css';
 
 interface BitProps {
     number: number;

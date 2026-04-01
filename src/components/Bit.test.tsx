@@ -1,6 +1,6 @@
 import React from "react";
 import {render, screen} from "@testing-library/react";
-import Bit from "components/Bit";
+import Bit from "./Bit";
 
 describe("The Bit component works correctly", () => {
     test('It renders', () => {
